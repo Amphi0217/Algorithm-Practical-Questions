@@ -1,3 +1,3 @@
 # Algorithm-Practical-Questions
 
-Solutions of Code Written Examinations of some Internet Companies
+Code Solutions of Written Examinations of some Internet Companies
